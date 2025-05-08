@@ -1,2 +1,2 @@
-# personal_site
-My personal site.
+# mykslecom
+My personal site, https://myksle.com.
