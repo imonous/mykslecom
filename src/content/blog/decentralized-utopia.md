@@ -1,7 +1,7 @@
 ---
 title: 'Decentralized utopia'
 description: ''
-pubDate: ''
+pubDate: '08-05-2025'
 heroImage: ''
 ---
 
